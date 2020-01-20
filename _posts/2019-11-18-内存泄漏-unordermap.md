@@ -19,7 +19,7 @@ tags:
 
 ## 正文
 
-接下来说说搭建这个博客的技术细节。  
+写这篇博客源自工作中遇到的一个内存泄露的问题。接下来说说搭建这个博客的技术细节。  
 
 正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
 
